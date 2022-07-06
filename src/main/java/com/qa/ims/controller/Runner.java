@@ -7,7 +7,7 @@ public class Runner {
 	//CRUD
 	
 	//Create 
-		Item Item = new Item("Vaseline", "221519129145", "low");
+	
 		
 		
 	}

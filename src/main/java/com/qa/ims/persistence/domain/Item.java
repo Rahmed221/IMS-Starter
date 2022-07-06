@@ -1,4 +1,4 @@
-package com.qa.ims.controller;
+package com.qa.ims.persistence.domain;
 
 import java.util.Objects;
 
@@ -16,7 +16,7 @@ public class Item {
 		this.stock = stock;
 
 	}
-
+// pulling data from SQL 
 	public Item(int id, String name, int product_id, String stock) {
 		super();
 		this.id = id;
